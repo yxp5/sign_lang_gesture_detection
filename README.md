@@ -1,3 +1,6 @@
+## Credit:
+Base model from Mediapipe & Kazuhito Takahashi
+
 ## This is to translate hand gesture into: 
 - Common phrase <br>
 - Alphabet by using standard American Sign Language <br>
